@@ -2,6 +2,11 @@ body{
   background-color:rgba(195, 231, 248, 0.336);
 }
 
+img {
+  width: 80%;
+    height: auto;
+}
+
 /* This is my grouping so all of my headings are formatted, that way I dont have to format each seperately */ 
 h1, h2, h3{
   color: darkred;
