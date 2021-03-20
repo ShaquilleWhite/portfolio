@@ -17,9 +17,9 @@ p{
 
 /* psuedo-classes for my links*/ 
 a:link { color: white; }
-a:visited { color:grey;}
+a:visited { color:black;}
 a:hover {color:red;}
-a:active {color:black;}
+a:active {color:pink;}
 
 /* This will style my links into buttons*/
 .btn {
@@ -49,5 +49,7 @@ ul {
   font-size: 25px;
 }
 
-
+ol {
+  font-size: 20px;
+}
 
